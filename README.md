@@ -34,6 +34,7 @@ Deploy as a web-based predictive keyboard app
 
 **Kartikey Sharma**
 B.Tech in Computer Science with specialization in Data Science
+
 🔗 [LinkedIn] https://www.linkedin.com/in/kartikey-sharma-313305251
 
 > ✨ Feel free to fork, star ⭐, or contribute to make it even better!
